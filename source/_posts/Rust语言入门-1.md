@@ -1,5 +1,5 @@
 ---
-title: Rust语言入门-1
+title: Rust语言入门-1-Rust与Cargo安装和使用
 date: 2021-07-19 07:43:22
 toc : true
 cover : /img/9.jpg
