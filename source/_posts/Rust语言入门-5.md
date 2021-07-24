@@ -30,7 +30,7 @@ tags:
 let 语句和if连用
 
 ```rust
-let mut x = if m > 7 {5} else {10};
+let mut x = (if m > 7 {5} else {10});
 ```
 
 ### **循环控制**
