@@ -201,7 +201,7 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: 瑾年
+        author: 瑾年MckinleyLu
         # Author title
         author_title: 桃李不言,下自成蹊
         # Author's current location
@@ -246,14 +246,14 @@ widgets:
         type: links
         # Names and URLs of the sites
         links:
-              云南大学研究生院: http://www.grs.ynu.edu.cn/
+              云大研究生院: http://www.grs.ynu.edu.cn/
               云大信息学院: http://www.ise.ynu.edu.cn/
               云大网上服务大厅: https://ehall.ynu.edu.cn/new/index.html
               云大选课系统: https://yjsxk.ynu.edu.cn/
               云大邮件系统: https://webmail.ynu.edu.cn/
-              wmSafe博客  : http://www.wmsafe.org/
               秉松博客    : https://blog.iucky.cn/
-              YFun        : https://yfun.top/ 
+              雾雨霜星    : https://www.shuangxing.top
+              贝丝的博客  : https://blog.besscroft.com
     # Categories widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
