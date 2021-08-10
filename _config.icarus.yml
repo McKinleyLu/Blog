@@ -113,8 +113,8 @@ navbar:
         Archives: /archives
         Categories: /categories
         Tags: /tags
-        
         About: /about
+        FriendList : /FriendList
     # Links to be shown on the right of the navigation bar
     links:
         Download on GitHub:
@@ -253,6 +253,7 @@ widgets:
               云大选课系统: https://yjsxk.ynu.edu.cn/
               云大邮件系统: https://webmail.ynu.edu.cn/
               wmSafe博客  : http://www.wmsafe.org/
+              秉松博客    : https://blog.iucky.cn/
     # Categories widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
