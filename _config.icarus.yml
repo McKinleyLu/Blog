@@ -124,7 +124,8 @@ navbar:
 footer:
     # Links to be shown on the right of the footer section
     links:
-       备案号：冀ICP备2021013625号: 'https://beian.miit.gov.cn'
+       冀ICP证2021013625号-1: 'https://beian.miit.gov.cn'
+       冀公网安备13050202000036号: 'http://www.beian.gov.cn/'
 # Article related configurations
 article:
     # Code highlight settings
@@ -251,6 +252,7 @@ widgets:
               云大网上服务大厅: https://ehall.ynu.edu.cn/new/index.html
               云大选课系统: https://yjsxk.ynu.edu.cn/
               云大邮件系统: https://webmail.ynu.edu.cn/
+              wmSafe博客  : http://www.wmsafe.org/
     # Categories widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
