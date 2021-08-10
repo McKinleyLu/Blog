@@ -15,8 +15,9 @@ tags:
    * **传播侵权、违法软件**
    * **传播淫秽图片、视频**
 6. **每月5号**将对所有友链博客进行统一检查，不符合要求会自动发送邮件提醒，五天后，若仍不符合相关要求，则会被取消友链恕不另行通知
-7. 我们只交换首页友情链接,其他不予通过
-8. 要求贵站页面设计整洁，友情链接清晰不乱，并且链接保持在页面首页，内容健康，不接受广告联盟、营销网站之类站点的链接，网站内容符合中华人民共和国法律，制作不能太粗糙，无恶意代码
+7. **每月5号**将访问贵博客，如果发现本博客**无故被抹去**，将进入**永久封禁网站**
+8. 我们只交换首页友情链接,其他不予通过
+9. 要求贵站页面设计整洁，友情链接清晰不乱，并且链接保持在页面首页，内容健康，不接受广告联盟、营销网站之类站点的链接，网站内容符合中华人民共和国法律，制作不能太粗糙，无恶意代码
 
 ## **申请友链联系方式**
 
@@ -31,11 +32,11 @@ tags:
 
 **友链列表**
 
-* **雾雨霜星     雾间觉雨，霜空望星      https://www.shuangxing.top**
-* **YFun          爱好编程和摄影             https://yfun.top/**  
-* **秉松博客     有秉性正直的松             https://blog.iucky.cn/**                                          
+<img  style = "border-radius:50%;" width="70" height="70"  src="http://marisa-kirisame.gitee.io/phw/Avatar.jpg" align="middle">     **雾雨霜星**  &nbsp; **雾间觉雨，霜空望星**  &nbsp; **https://www.shuangxing.top**
+<img  style = "border-radius:50%;" width="70" height="70"  src="https://blog.iucky.cn/favicon-1.ico" align="middle">**秉松博客**  &nbsp;   **有秉性正直的松**   &nbsp;   **https://blog.iucky.cn/** 
 
 ## **失效名单**
+**YFun**     &nbsp;     **爱好编程和摄影**      &nbsp;      **https://yfun.top/**       &nbsp;   失效原因：无网站头像链接
 
 
 
