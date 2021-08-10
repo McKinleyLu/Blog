@@ -109,12 +109,12 @@ head:
 navbar:
     # Navigation menu items
     menu:
-        Home: /
-        Archives: /archives
-        Categories: /categories
-        Tags: /tags
-        About: /about
-        FriendList : /FriendList
+        首页: /
+        归档: /archives
+        分类: /categories
+        标签: /tags
+        关于: /about
+        友链 : /FriendList
     # Links to be shown on the right of the navigation bar
     links:
         Download on GitHub:
@@ -254,6 +254,7 @@ widgets:
               云大邮件系统: https://webmail.ynu.edu.cn/
               wmSafe博客  : http://www.wmsafe.org/
               秉松博客    : https://blog.iucky.cn/
+              YFun        : https://yfun.top/ 
     # Categories widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
