@@ -40,7 +40,7 @@ tags:
 <img  style = "border-radius:50%;" width="70" height="70"  src="https://blog.besscroft.com/avatar.png" align="middle">**贝丝的博客**  &nbsp;   **书中自有颜如玉**   &nbsp;   **https://blog.besscroft.com** 
 
 ## **失效名单**
-**YFun**     &nbsp;     **爱好编程和摄影**      &nbsp;      **https://yfun.top/**       &nbsp;   失效原因：无网站头像链接  网站内含有广告  请在三天内修复 
+* **YFun**     &nbsp;     **爱好编程和摄影**      &nbsp;      **https://yfun.top/**       &nbsp;   失效原因：无网站头像链接  网站内含有广告  请在三天内修复 
 
 
 
