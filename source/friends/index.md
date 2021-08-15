@@ -1,12 +1,13 @@
 ---
-title: 友链规则
+title: friends
 date: 2021-08-10 16:15:41
-tags:
+type: "friends"
+layout: "friends"
 ---
 
 ## **申请要求**
 
-1. 网站搭建至少1个月以上，博客数量在5篇以上
+1. 博客数量在5篇以上
 2. 申请友链之前请先添加本站链接
 3. 拒绝推广类广告网站，抵制一切广告网站、商业网站等
 4. 若经发现为**空壳网站**，则自动取消友链
@@ -31,17 +32,7 @@ tags:
 **站点描述：桃李不言,下自成蹊**
 **站点地址：https://www.mckinleylu.com**
 **站点头像：https://www.mckinleylu.com/favicon.ico**
-
-**友链列表**
-
-<img  style = "border-radius:50%;" width="70" height="70"  src="http://marisa-kirisame.gitee.io/phw/Avatar.jpg" align="middle">     **雾雨霜星**  &nbsp; **雾间觉雨，霜空望星**  &nbsp; **https://www.shuangxing.top**
-<img  style = "border-radius:50%;" width="70" height="70"  src="https://blog.iucky.cn/favicon-1.ico" align="middle">**秉松博客**  &nbsp;   **有秉性正直的松**   &nbsp;   **https://blog.iucky.cn/** 
-
-<img  style = "border-radius:50%;" width="70" height="70"  src="https://blog.besscroft.com/avatar.png" align="middle">**贝丝的博客**  &nbsp;   **书中自有颜如玉**   &nbsp;   **https://blog.besscroft.com** 
-
 ## **失效名单**
-* **YFun**     &nbsp;     **爱好编程和摄影**      &nbsp;      **https://yfun.top/**       &nbsp;   失效原因：无网站头像链接  网站内含有广告  请在三天内修复 
-
 
 
 

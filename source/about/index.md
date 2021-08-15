@@ -1,7 +1,8 @@
 ---
-title: About
+title: about
 date: 2021-07-17 07:49:36
-tags:
+type: "about"
+layout: "about"
 ---
 
 
