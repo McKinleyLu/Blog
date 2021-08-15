@@ -73,18 +73,3 @@ date: 2021-8-10 16:13:29
 ![img](/pictures/7.jpg)
 
 ![img](/pictures/6.jpg)
-
-### **河地大猫小喵**
-
-![大白](/pictures/1.jpg)
-
-![可乐](/pictures/2.jpg)
-
-![大白](/pictures/5.jpg)
-
-### **河师大风景**
-
-![img](/pictures/3.jpg)
-
-![img](/pictures/4.jpg)
-

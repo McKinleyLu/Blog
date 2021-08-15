@@ -1,5 +1,5 @@
 title: 瑾年的Blog
-subtitle: 'MckinleyLu‘sBlog'
+subtitle: '瑾年的Blog'
 description: '桃李不言,下自成蹊'
 keywords: null
 author: 瑾年
@@ -31,18 +31,6 @@ render_drafts: false
 post_asset_folder: false
 relative_link: false
 future: true
-highlight:
-  enable: true
-  line_number: true
-  auto_detect: false
-  tab_replace: ''
-  wrap: true
-  hljs: true
-prismjs:
-  enable: false
-  preprocess: true
-  line_number: true
-  tab_replace: ''
 index_generator:
   path: ''
   per_page: 6
@@ -104,3 +92,15 @@ permalink_pinyin:
   enable: true
   separator: '-' # default: '-'
 
+highlight:
+  enable: false
+  line_number: true
+  auto_detect: false
+  tab_replace: ''
+  wrap: true
+  hljs: false
+prismjs:
+  enable: true
+  preprocess: true
+  line_number: true
+  tab_replace: ''
