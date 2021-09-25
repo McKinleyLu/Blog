@@ -8,7 +8,6 @@ categories:
   - Rust
 tags: 
   - Rust
-  - 编程语言
 ---
 和`C++`，`JAVA`语言一样，Rust语言也有结构体。<!-- more -->
 ### **结构体**定义

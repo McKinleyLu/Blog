@@ -5,10 +5,9 @@ toc: true
 cover: /img/1.jpg
 categories: 
   - 编程语言
-  - C++
+  - STL
 tags: 
   - C++
-  - 编程语言
 ---
 
 ### Why C++

@@ -8,7 +8,6 @@ categories:
   - Rust
 tags: 
   - Rust
-  - 编程语言
 ---
 ### 猜数游戏
 
