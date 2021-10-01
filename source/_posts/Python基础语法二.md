@@ -5,7 +5,7 @@ toc: true
 cover : /img/1.jpg
 categories: 
   - 编程语言
-  - python
+  - python语法
 tags: 
   - python
 ---
