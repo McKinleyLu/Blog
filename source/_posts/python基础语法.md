@@ -1,5 +1,5 @@
 ---
-title: python基础语法
+title: python基础语法一
 date: 2021-10-01 09:41:57
 toc: true
 cover : /img/9.jpg
@@ -10,7 +10,7 @@ tags:
   - python
 ---
 
-## Python基础语法
+## Python基础语法一
 
 ### Turtle库
 
