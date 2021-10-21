@@ -1,13 +1,14 @@
 ---
 title: Rust语言入门-变量与数据类型
-date: 2021-07-20 10:20:12
-toc : true
-cover : /img/9.jpg
-categories: 
+toc: true
+cover: /img/9.jpg
+categories:
   - 编程语言
   - Rust
-tags: 
+tags:
   - Rust
+abbrlink: 38050
+date: 2021-07-20 10:20:12
 ---
 ### **变量与可变性**
 

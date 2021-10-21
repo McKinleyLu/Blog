@@ -1,13 +1,14 @@
 ---
 title: C++第四周
-date: 2021-07-17 07:09:03
 toc: true
 cover: /img/1.jpg
-categories: 
+categories:
   - 编程语言
   - C++
-tags: 
+tags:
   - C++
+abbrlink: 38739
+date: 2021-07-17 07:09:03
 ---
 
 ### C++面对对象程序设计第一节

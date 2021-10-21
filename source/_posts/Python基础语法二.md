@@ -1,20 +1,21 @@
 ---
 title: Python基础语法二
-date: 2021-10-01 23:47:51
 toc: true
-cover : /img/1.jpg
-categories: 
+cover: /img/1.jpg
+categories:
   - 编程语言
   - python语法
-tags: 
+tags:
   - python
+abbrlink: 2227
+date: 2021-10-01 23:47:51
 ---
 
 ## Python基础语法二
 
 ### 分支结构
 
-1. 条件分支结
+1. 条件分支结<!-- more -->
 
    if  - elif  - else 结构，注意每一个关键字后面都要添加冒号
 

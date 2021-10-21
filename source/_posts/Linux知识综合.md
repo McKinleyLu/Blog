@@ -1,13 +1,14 @@
 ---
 title: Linux知识综合
-date: 2021-09-30 22:21:50
 toc: true
-cover : /img/9.jpg
-categories: 
+cover: /img/9.jpg
+categories:
   - 编程语言
   - linux
-tags: 
+tags:
   - linux
+abbrlink: 49188
+date: 2021-09-30 22:21:50
 ---
 
 <style> table { margin: auto; } </style>

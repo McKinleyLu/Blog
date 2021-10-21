@@ -1,13 +1,14 @@
 ---
 title: Rust语言入门-10-枚举使用、match使用以及if-let-else使用
-date: 2021-08-01 11:36:31
-toc : true
-cover : /img/9.jpg
-categories: 
+toc: true
+cover: /img/9.jpg
+categories:
   - 编程语言
   - Rust
-tags: 
+tags:
   - Rust
+abbrlink: 7878
+date: 2021-08-01 11:36:31
 ---
 ### **枚举使用**
 

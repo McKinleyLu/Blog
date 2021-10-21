@@ -1,13 +1,14 @@
 ---
 title: Rust语言入门-2-Guess小游戏案例分析
-date: 2021-07-20 10:19:59
-toc : true
-cover : /img/9.jpg
-categories: 
+toc: true
+cover: /img/9.jpg
+categories:
   - 编程语言
   - Rust
-tags: 
+tags:
   - Rust
+abbrlink: 38018
+date: 2021-07-20 10:19:59
 ---
 ### 猜数游戏
 

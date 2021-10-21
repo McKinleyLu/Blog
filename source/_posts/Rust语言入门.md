@@ -1,13 +1,14 @@
 ---
 title: Rust语言入门-4-函数与注释
-date: 2021-07-20 15:35:40
-toc : true
-cover : /img/9.jpg
-categories: 
+toc: true
+cover: /img/9.jpg
+categories:
   - 编程语言
   - Rust
-tags: 
+tags:
   - Rust
+abbrlink: 1326
+date: 2021-07-20 15:35:40
 ---
 ### **函数**
 

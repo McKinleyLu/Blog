@@ -1,15 +1,16 @@
 ---
 title: 最短Hamilton路径
-date: 2021-10-03 22:37:32
 cover: /img/6.jpg
-categories: 
+categories:
   - 算法
   - 算法进阶指南
-tags: 
+tags:
   - 位运算
   - 图论
   - C++
   - 算法-中等级
+abbrlink: 3839
+date: 2021-10-03 22:37:32
 ---
 
 ### 题目描述

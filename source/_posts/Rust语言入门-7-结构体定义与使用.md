@@ -1,13 +1,14 @@
 ---
 title: Rust语言入门-7-结构体定义与使用
-date: 2021-08-01 10:43:02
-toc : true
-cover : /img/9.jpg
-categories: 
+toc: true
+cover: /img/9.jpg
+categories:
   - 编程语言
   - Rust
-tags: 
+tags:
   - Rust
+abbrlink: 761
+date: 2021-08-01 10:43:02
 ---
 和`C++`，`JAVA`语言一样，Rust语言也有结构体。<!-- more -->
 ### **结构体**定义

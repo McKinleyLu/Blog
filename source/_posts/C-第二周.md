@@ -1,13 +1,14 @@
 ---
 title: C++第二周
-date: 2021-05-23 18:18:40
 toc: true
 cover: /img/1.jpg
-categories: 
+categories:
   - 编程语言
   - C++
-tags: 
+tags:
   - C++
+abbrlink: 62955
+date: 2021-05-23 18:18:40
 ---
 
 ### 第一节 相关函数补充

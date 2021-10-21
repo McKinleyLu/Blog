@@ -1,13 +1,14 @@
 ---
 title: Rust语言入门-5-控制流
-date: 2021-07-21 06:58:51
-toc : true
-cover : /img/9.jpg
-categories: 
+toc: true
+cover: /img/9.jpg
+categories:
   - 编程语言
   - Rust
-tags: 
+tags:
   - Rust
+abbrlink: 11728
+date: 2021-07-21 06:58:51
 ---
 ### **条件控制IF**
 

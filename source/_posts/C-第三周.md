@@ -1,13 +1,14 @@
 ---
 title: C++第三周
-date: 2019-08-18 07:02:31
 toc: true
 cover: /img/1.jpg
-categories: 
+categories:
   - 编程语言
   - C++
-tags: 
+tags:
   - C++
+abbrlink: 63890
+date: 2019-08-18 07:02:31
 ---
 
 ### 第一节 const常量使用

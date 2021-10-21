@@ -1,20 +1,21 @@
 ---
 title: python基础语法一
-date: 2021-10-01 09:41:57
 toc: true
-cover : /img/9.jpg
-categories: 
+cover: /img/9.jpg
+categories:
   - 编程语言
   - python语法
-tags: 
+tags:
   - python
+abbrlink: 3989
+date: 2021-10-01 09:41:57
 ---
 
 ## Python基础语法一
 
 ### Turtle库
 
-* turtle的绘制窗体
+* turtle的绘制窗体<!-- more -->
 
   ```python
   turtle.setup(width,height,startx,starty)

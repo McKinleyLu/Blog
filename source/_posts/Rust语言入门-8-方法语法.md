@@ -1,13 +1,14 @@
 ---
 title: Rust语言入门-8-方法语法
-date: 2021-08-01 10:56:06
-toc : true
-cover : /img/9.jpg
-categories: 
+toc: true
+cover: /img/9.jpg
+categories:
   - 编程语言
   - Rust
-tags: 
+tags:
   - Rust
+abbrlink: 58702
+date: 2021-08-01 10:56:06
 ---
 ### **方法语法概念**
 

@@ -1,13 +1,14 @@
 ---
 title: C++入门
-date: 2021-05-23 17:19:11
 toc: true
 cover: /img/1.jpg
-categories: 
+categories:
   - 编程语言
   - C++
-tags: 
+tags:
   - C++
+abbrlink: 51130
+date: 2021-05-23 17:19:11
 ---
 
 ### 第一节 函数指针与命令行参数

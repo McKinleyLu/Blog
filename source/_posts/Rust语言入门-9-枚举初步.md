@@ -1,13 +1,14 @@
 ---
 title: Rust语言入门-9-枚举初步
-date: 2021-08-01 11:14:59
-toc : true
-cover : /img/9.jpg
-categories: 
+toc: true
+cover: /img/9.jpg
+categories:
   - 编程语言
   - Rust
-tags: 
+tags:
   - Rust
+abbrlink: 24165
+date: 2021-08-01 11:14:59
 ---
 ### **枚举概念与定义**
 

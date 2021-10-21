@@ -92,15 +92,19 @@ permalink_pinyin:
   enable: true
   separator: '-' # default: '-'
 
-highlight:
-  enable: false
-  line_number: true
-  auto_detect: false
-  tab_replace: ''
-  wrap: true
-  hljs: false
+
 prismjs:
   enable: true
   preprocess: true
   line_number: true
   tab_replace: ''
+
+
+highlight:
+  enable: false
+
+prism_plugin:
+  mode: 'preprocess'    # realtime/preprocess
+  theme: 'tomorrow'
+  line_number: false    # default false
+  custom_css:

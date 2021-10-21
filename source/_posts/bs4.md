@@ -1,13 +1,14 @@
 ---
 title: bs4
-date: 2021-09-24 22:59:29
-toc : true
+toc: true
 cover: /img/1.jpg
-categories: 
+categories:
   - 爬虫
   - bs4
-tags: 
+tags:
   - python
+abbrlink: 14725
+date: 2021-09-24 22:59:29
 ---
 
 ### Bs4数据提取方法

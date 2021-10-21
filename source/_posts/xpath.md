@@ -1,13 +1,14 @@
 ---
 title: xpath
-date: 2021-09-25 13:24:41
-toc : true
+toc: true
 cover: /img/2.jpg
-categories: 
+categories:
   - 爬虫
   - xpath
-tags: 
+tags:
   - python
+abbrlink: 64205
+date: 2021-09-25 13:24:41
 ---
 
 ## Xpath

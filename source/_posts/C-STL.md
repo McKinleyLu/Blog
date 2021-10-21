@@ -1,13 +1,14 @@
 ---
 title: C++ STL
-date: 2021-07-17 07:12:49
 toc: true
 cover: /img/1.jpg
-categories: 
+categories:
   - 编程语言
   - STL
-tags: 
+tags:
   - C++
+abbrlink: 15764
+date: 2021-07-17 07:12:49
 ---
 
 ### Why C++
