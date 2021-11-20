@@ -99,7 +99,7 @@ date: 2021-10-10 17:08:05
 
 ### 参考代码
 
-```c++
+```java
 /**
  * @file 11.cpp
  * @author your name (you@domain.com)

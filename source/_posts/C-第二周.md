@@ -17,7 +17,7 @@ date: 2021-05-23 18:18:40
 
 ##### 头文件<!-- more -->
 
-```c++
+```java
 #include <algorithm>
 ```
 
@@ -25,7 +25,7 @@ date: 2021-05-23 18:18:40
 
 1. 函数模板
 
-   ```c++
+   ```java
    binary_search(arr[],arr[]+size ,  indx)
    ```
 
@@ -42,7 +42,7 @@ date: 2021-05-23 18:18:40
 
 1. 函数模板
 
-   ```c++
+   ```java
    lower_bound(arr[],arr[]+size ,  indx)
    ```
 
@@ -59,7 +59,7 @@ date: 2021-05-23 18:18:40
 
 1. 函数模板
 
-   ```c++
+   ```java
    upper_bound(arr[],arr[]+size ,  indx)
    ```
 

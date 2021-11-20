@@ -19,7 +19,7 @@ date: 2021-07-17 07:09:03
 
 2. 成员函数外部描述方式<!-- more -->
 
-   ```c++
+   ```java
    int CRectangle :: Area()
    {
        return weight*high;
@@ -30,7 +30,7 @@ date: 2021-07-17 07:09:03
 
 3. 注意：如果在类外写成员函数，需要在类定义中声明
 
-   ```c++
+   ```java
    class A{
         int a ,b;
         void Print();
@@ -64,7 +64,7 @@ date: 2021-07-17 07:09:03
 
 10. 注意！！！:使用缺省函数注意避免函数重载的歧义
 
-    ```c++
+    ```java
     class A
     {
         void value(int val = 0 ) {x = val ;}
@@ -78,7 +78,7 @@ date: 2021-07-17 07:09:03
 
 1. 若没有复制构造函数，则默认生成
 
-   ```c++
+   ```java
    complex c1 ;    //拷贝(初始化语句，并非赋值语句)
    complex c2 = c1 ;
    complex c3(c2);
@@ -89,7 +89,7 @@ date: 2021-07-17 07:09:03
 
 2. 复制构造函数的参数必须是对象的引用，且参数只有一个、没有返回值
 
-   ```c++
+   ```java
    complex (complex & a)  //正确
    complex (complex   a)  //错误
    ```
@@ -115,7 +115,7 @@ date: 2021-07-17 07:09:03
 
 7. 实例
 
-   ```c++
+   ```java
    class A{
        public:
           double real ,imag;

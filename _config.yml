@@ -91,20 +91,13 @@ search:
 permalink_pinyin:
   enable: true
   separator: '-' # default: '-'
-
-
-prismjs:
-  enable: true
-  preprocess: true
-  line_number: true
-  tab_replace: ''
-
+  
 
 highlight:
-  enable: false
-
+  enable: false # 关闭原有的高亮代码
+  
 prism_plugin:
   mode: 'preprocess'    # realtime/preprocess
-  theme: 'tomorrow'
+  theme: 'my'
   line_number: false    # default false
   custom_css:

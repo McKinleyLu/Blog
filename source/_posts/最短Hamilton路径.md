@@ -75,7 +75,7 @@ Hamilton 路径的定义是从 0 到 n−1 不重不漏地经过每个点恰好�
 
 ### 参考代码
 
-```c++
+```java
 #include<iostream>
 #include<algorithm>
 #include<cstring>

@@ -148,7 +148,7 @@ C++的cin用于输入、cout用于输出，但时间比scanf()、printf()高。�
 
 2. set的常用用法
 
-   ```C++
+   ```java
    #include <iostream>
    #include <set>
    using namespace std;
