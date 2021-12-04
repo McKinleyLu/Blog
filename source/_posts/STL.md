@@ -44,7 +44,7 @@ string
 queue
     push()
     front()
-    bac()
+    back()
     pop()
     size()
 priority_queue
