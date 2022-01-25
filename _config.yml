@@ -56,7 +56,7 @@ deploy:
     #github: git@github.com:McKinleyLu/mckinleylu.github.io.git
     #coding: https://e.coding.net/mckinleylu/mckinleylu.coding.me.git
     aliyun: root@8.140.174.88:/home/git/hexoBlog  
-    tengxunyun: root@101.43.163.162:/home/git/hexoBlog
+    tengxunyun: root@101.43.163.162:/home/git/blog
   
 server:
   port: 4000 #端口号随意，默认是4000
