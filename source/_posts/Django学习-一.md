@@ -1,12 +1,13 @@
 ---
 title: Django学习(一)
-date: 2022-01-25 15:11:13
 author: 瑾年
 mathjax: true
 categories:
   - Django
 tags:
   - Django
+abbrlink: 41542
+date: 2022-01-25 15:11:13
 ---
 # DjangoWinterLearn
 
@@ -17,19 +18,19 @@ tags:
 ### 模块二:创建应用
 1. 指令:`python manage.py startapp myapp`
 2. 创建一个视图
-   * 打开`myapp => views.py`，写如下代码
-     ```python
-     def index(request):
+* 打开`myapp => views.py`，写如下代码
+```python
+   def index(request):
          return 
-     ```
-   * 在`/myapp`下创建一个路由文件`urls.py`
-   * 编写`uls.py`
-   * 之后在总路由下,添加相应路由
+```
+* 在`/myapp`下创建一个路由文件`urls.py`
+* 编写`uls.py`
+* 之后在总路由下,添加相应路由
 4. 更改启动端口
-   ```shell
-   python manage.py runserver 指定的端口号
-   ```
-### 模块三:项目模型(即数据库连接操作)
+```shell
+  python manage.py runserver 指定的端口号
+```
+### 模块三:项目模型`即数据库连接操作`
 1. 打开`settings.py`文件，进行相关的配置，样例如下
    ```sql
          DATABASES = {
@@ -84,26 +85,31 @@ tags:
     'myapp.apps.MyappConfig',  # 添加代码]
    ```
 4. 测试数据库访问操作
-   * shell版
-     ```shell
-        python manage.py shell
-     ```
-     在下面依次输入以下命令
-     ```python
-     from myapp.models import Stu
-     mod = Stu.objects
-     mod.get(catId=1)
-     ```
-   * web版，在用户`views.py`中添加以下内容
-     ```python
-     def example(request):
-        mod = Stu.objects
-        mod.get(catId=1)
-        return HttpResponse("my example")
-     ```
+* shell版
+```shell
+python manage.py shell
+```
+在下面依次输入以下命令
+```python
+from myapp.models import Stu
+mod = Stu.objects
+mod.get(catId=1)
+```
+
+* web版，在用户`views.py`中添加以下内容
+```python
+def example(request):
+    mod = Stu.objects
+    mod.get(catId=1)
+    return HttpResponse("my example")
+```
+
+
 ### 模块四:启用网站Admin管理
+
 1. 数据迁移(用程序直接生成数据库信息)
    执行如下命令:
+   
    ```shell
    python manage.py migrate
    python manage.py createsuperuser
