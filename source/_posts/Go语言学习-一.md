@@ -3,6 +3,7 @@ title: Go语言学习(一)
 author: 瑾年
 mathjax: true
 categories:
+  - 2022WinterPlan
   - Go语言学习
 tags:
   - Go
