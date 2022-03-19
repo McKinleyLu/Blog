@@ -2,10 +2,9 @@
 title: 树与图的存储与DFS使用
 categories:
   - 基础算法
-  - 竞赛
-  - 竞赛模板
+  - week3
 tags:
-  - 树与图的存储
+  - DFS
   - c++
 abbrlink: 28912
 date: 2021-11-20 15:49:44
@@ -69,46 +68,57 @@ date: 2021-11-20 15:49:44
 #### 参考代码
 
 ```java
-#include<iostream>
-#include<cstring>
-#include<algorithm>
+/*除去一个点，产生连通分量的最大值的最小值  即 argmax*/
+#include <iostream>
+#include <cstring>
 using namespace std ;
-const int num = 20 ;    //树最多有的节点数
-int n ;
-int h[num],en[num],ne[num],idx = 0;
-bool used[num];
-int ans = 1e5;
-void add_node(int x ,int y){
-     en[idx] = y , ne[idx] = h[x],h[x] = idx++;
+/***
+ * 
+ *   首先，选取一个点，然后图分成两个连通块，删除这个点，这个点的子孩子构成的
+ *   子树通过dfs可以直到节点个数，通过使用树的节点总数 - dfs节点数 - 1(删除的节点) = 另一个子图节点数个数
+ *   最后求 ans = max(ans,上一次最大值)  即可
+ * 
+ */
+const int N = 1e5 + 10 ;
+int h[N],en[N],ne[N],idx = 0,n;
+void init(){
+    memset(h,-1,sizeof h );
 }
-// 可以利用dfs求出一个子树的深度
-int dfs(int u ){
-    used[u] = true;
-    int sum  = 1 , s =  0 , res = 0 ;
-    for(int i = h[u] ; i != -1 ; i = ne[i]){
-        int j = en[i];
-        if(!used[j]) {
-            s = dfs(j);
-            res = max(res,s);
-            sum += s ; 
-        }  
-    }
-    ans = min(ans,max(res,n - sum));
-    return sum ;
+void insert(int x , int y){
+     en[idx]  = y , ne[idx] = h[x] , h[x] = idx++;
 }
 
-int main(){
+bool used[N];
+int ans = N ;
+int dfs(int u ){    // 求以u为根节点的子树最大节点个数             
+     used[u] = true ;
+
+     int sum = 1  ,res = 0 ; 
+     for(int i = h[u] ; i != -1 ; i = ne[i]){
+         int j = en[i];
+         if(!used[j]){
+            int s =  dfs(j);
+            res = max(res,s);  
+            sum += s ;    // sum记录的是以u为根节点的树的节点总个数
+         }
+     }
+     res = max(res,n - sum); // 求出当前两个连通分量的最大值
+     ans = min(ans,res);     // ans为全局变量，记录连通分量最大值的最小值argmin
+
+     return sum ;
+}
+int main(int argc, char const *argv[])
+{
     cin >> n ;
-    memset(h , -1 , sizeof h);
-    memset(used,false,sizeof used);
-    for(int i = 1 , x , y ; i <= n - 1 ; ++i){
-        // 根据题意是无向图
-        cin >> x  >> y ;
-        add_node(x,y);
-        add_node(y,x);
-    }    
+    init();
+    for(int i = 0; i < n - 1 ; ++i){
+        int x , y ;
+        cin >> x >> y ;
+        insert(x,y),insert(y,x);
+    }
     dfs(1);
-    cout<<ans<<endl;
+    cout << ans << endl;
+    return 0;
 }
 ```
 

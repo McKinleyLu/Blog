@@ -5,6 +5,7 @@ password: 0c2baa6084e92bab3a2aa81c8791b37730b9bc4e1f6c13730ba44c5850d7cfd4
 categories:
   - - 2022WinterPlan
   - dke2022寒假培训
+  - dke
 tags:
   - winnerSchool
   - day01
@@ -19,7 +20,7 @@ date: 2022-01-12 21:01:32
 ### GitPod
 
 1. 打开
-   * 方法一 ：开启[代理软件](https://chrome.google.com/webstore/detail/gitpod-always-ready-to-co/dodmmooeoklaejobgleioelladacbeki?utm_source=chrome-ntp-icon),去谷歌浏览器商店下载`GitPod`插件，会发现github的仓库旁边有`GitPod`图标，打开就会出现在线编程
+   * 方法一 ：开启[代理软件](https://chrome.google.com/webstore/detail/gitpod-always-ready-to-co/dodmmooeoklaejobgleioelladacbeki?utm_source=chrome-ntp-icon),去谷歌浏览器商店下载`GitPod`插件，会发现github的仓库旁边有`GitPod`图标，打开就会出现在线编程<!-- more -->
    * 方法二：使用`#`，即使用`https://gitpod.io/#` + 仓库地址，如`https://gitpod.io/#https://github.com/McKinleyLu/Dke_Winter`
 
 2. 退出

@@ -3,8 +3,7 @@ title: Trie树
 date: 2021-10-21 22:45:59
 categories:
   - 基础算法
-  - 竞赛
-  - 竞赛模板
+  - week2
 tags:
   - trie树
   - c++
@@ -17,11 +16,14 @@ abbrlink: 3592
 
 树的构造如下：
 
+![picture](/img/ssjc1.jpg.jpg)
+
 ![picture](/img/jcsf9.jpg)
 
 ### 代码模板
 
 ```java
+//2022.3.2复习
 #include<iostream>
 using namespace std;
 

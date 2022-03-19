@@ -99,30 +99,29 @@ urlpatterns = [
       raise Http404("编辑页面不存在")
 ```
 6. 其他的URLconf设置
-当路由太多时，多个应用拥有自己的子路由：
-在每个应用中创建`urls.py`子路由
-```python
-#子路由 myapp/urls.py
-from django.contrib import admin
-from django.urls import path,include
-from myapp import views      #导入自己的应用
-urlpatterns = [
-    #path('admin/', admin.site.urls),
-    path("",include('myapp.urls')),  #在当前根路由中，导入子路由
-]
 
-#根路由 myapp/urls.py
-from django.contrib import admin
-from django.urls import path,include
-from myapp import views      #导入自己的应用
-urlpatterns = [
-    #path('admin/', admin.site.urls),
-    path("",include('myapp.urls')),  #在当前根路由中，导入子路由
-]
+   当路由太多时，多个应用拥有自己的子路由：在每个应用中创建`urls.py`子路由
 
-# 访问
-# http://127.0.0.1:8001/myapp/edit/ 打开预定的404
-```
+   ```python
+     #子路由 myapp/urls.py
+     from django.contrib import admin
+     from django.urls import path,include
+     from myapp import views      #导入自己的应用
+     urlpatterns = [
+         #path('admin/', admin.site.urls),
+         path("",include('myapp.urls')),  #在当前根路由中，导入子路由
+     ]
+     #根路由 myapp/urls.py
+     from django.contrib import admin
+     from django.urls import path,include
+     from myapp import views      #导入自己的应用
+     urlpatterns = [
+         #path('admin/', admin.site.urls),
+         path("",include('myapp.urls')),  #在当前根路由中，导入子路由
+     ]
+     访问 http://127.0.0.1:8001/myapp/edit/ 打开预定的404
+   ```
+
 7. 页面跳转(重定向)
 * 首先给每一个urls.py中的操作起名字,同时修改view.py文件,之后每访问一次，在终端打印出跳转的地址，同时注意下面展示的加参数方法
 ```python
