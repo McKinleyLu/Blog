@@ -40,7 +40,7 @@ git brach [new branch name]
 3. 将新创建的分支提交远程
 `git push <远程主机名> <本地分支名>:<远程分支名>`
 ```shell
-git push orign newBranch:newBranch
+git push origin newBranch:newBranch
 ```
 4. 从远程更新(关联远程分支是否成功)已经选好的分支
 ```shell
