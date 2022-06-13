@@ -55,7 +55,11 @@ git pull
       * 问题描述:  使用 `git add .` 时，出现上述错误,是因为在当前 git 仓库中同时包含有另一个 git 仓库。
       * 解决方法：找到被嵌套的 git 仓库，并删除` .git `文件
       
-    
+#### git clone
+1. 克隆指定分支
+```shell
+git clone -b 分支名字 xxx（链接）
+```
 
 #### git切换分支
 ```shell
