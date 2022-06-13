@@ -129,3 +129,13 @@ git push origin --delete newBranch
 ```shell
 git rm -r --cached .
 ```
+2. 出现报错:fatal does not appear to be a git repository
+  * 使用`git remote add [远程分支名]  远程仓库名进行`进行重新添加
+3. 输入`git pull`时，出现如下警告
+  * ```shell
+  # 警告
+  You asked to pull from the remote 'xxx', but did not specify
+a branch. Because this is not the default configured remote
+for your current branch, you must specify a branch on the command line.
+    ```
+  * 解决方法 `git pull xxx  master(由于自己的是esc的esc，就写的esc，即git pull esc esc) `
