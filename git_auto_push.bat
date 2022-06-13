@@ -1,6 +1,7 @@
+git remote add esc git@github.com:McKinleyLu/Blog.git
 git pull esc esc 
 git rm -r --cached .
 git checkout esc
 git add .
-git commit -m "esc:3.0"
+git commit -m "pc"
 git push  origin   esc:esc
