@@ -1,4 +1,4 @@
-title: Eembedding
+title: 研究方向之图嵌入部分
 top: true
 author: 瑾年
 password: 038468518ad8122e13112743f890c7ba96ac5665b71de548eceb23e9ef237805
