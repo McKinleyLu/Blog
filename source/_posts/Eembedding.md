@@ -104,7 +104,7 @@ X ≈ WH（W为权矩阵   H为特征矩阵）
       |0|15|   
       |1|78|   
       |2|9| 
-     ```java
+     ```python
      def IndexOriginNode(inFilePath:str,outFilePath):
       allNodes=set()
       nodeIndex={}
@@ -148,7 +148,7 @@ X ≈ WH（W为权矩阵   H为特征矩阵）
      —— 获取每一个节点边数以及其出入度之和的数组  
      datas数组:  每一个元素为一个turple(id1,id2)  
      nodeDegree数组: 记录每一个点的出入度之和
-      ```java
+      ```python
         def read_originData(data_file):
           # 通过读取源文件,返回节点的度的数组(度 = 出度 + 入度)
           data = []
