@@ -173,7 +173,7 @@ X ≈ WH（W为权矩阵   H为特征矩阵）
                       else:
                           nodeDegree[int(elements[1])] += 1
           return data, nodeDegree
-        ```
+      ```
         
 3. Eembedding函数  
 
@@ -248,5 +248,3 @@ X ≈ WH（W为权矩阵   H为特征矩阵）
         WriteVector(data, originalFile+EMBED_SUFIX)
         return data
   ```
-
-  
