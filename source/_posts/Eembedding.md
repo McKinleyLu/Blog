@@ -177,7 +177,7 @@ X ≈ WH（W为权矩阵   H为特征矩阵）
         
 3. Eembedding函数  
 
-  ```java
+  ```python
       def EmbedGraph(originalFile, dimension):
         print("the dimension is: "+str(dimension))
         # 通过读取源文件,返回  边数  节点的度的数组(度 = 出度 + 入度)
