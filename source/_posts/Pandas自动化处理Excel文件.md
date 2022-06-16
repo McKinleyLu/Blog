@@ -80,4 +80,22 @@ people = pd.read_excel("excels_no_head_output2.xlsx",index_col='ID')
 print(people.head(5))
 people.to_excel("excels_no_head_output4.xlsx")
 ```
-#### d
+
+#### 读取指定位置excel
+如图，读取如下数据
+![picture3](/img/pandas/excel/3.JPG)
+1. 使用read_excel()两个属性
+  * 前三行为空 跳过 使用 skiprows
+  * 前三列为空 跳过  使用 usecols
+  ```python
+  from os import stat
+  import string
+  from datetime import date,timedelta
+  import pandas as pd 
+  # 前三行为空 跳过 使用 skiprows
+  # 前三列为空 跳过  使用 usecols
+  # 为了防止数据使用浮点数，设置dtype为str
+    books = pd.read_excel("week2.1.xlsx",skiprows=3,usecols='C:F',dtype={'ID':str,'InStore':str})
+    bookss =  pd.read_excel("week2.1.xlsx",skiprows=3,usecols='C:F',dtype={'ID':str,'InStore':str})
+    print(books)
+ ```
