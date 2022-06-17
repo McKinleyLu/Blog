@@ -1,8 +1,13 @@
 title: Pandas自动化处理Excel文件
 author: 瑾年
 abbrlink: 33283
-date: 2022-06-16 22:00:34
 tags:
+  - Pandas
+categories:
+  - dke
+  - Pandas
+  - Excel
+date: 2022-06-16 22:00:00
 ---
 ### Excel文件读取
 #### 基本读数据
