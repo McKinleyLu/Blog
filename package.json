@@ -44,6 +44,7 @@
     "hexo-util": "^2.6.1",
     "hexo-wordcount": "^6.0.1",
     "hexo-zngw-asset-image": "^1.0.0",
+    "highlight": "^0.2.4",
     "inferno": "^7.4.8",
     "inferno-create-element": "^7.4.8",
     "save-dev": "^0.0.1-security"
