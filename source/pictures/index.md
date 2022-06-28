@@ -6,70 +6,40 @@ date: 2021-8-10 16:13:29
 
 ### **河地大风景**
 
-![img](/pictures/41.jpg)
+![HEU](https://picgo.mckinleylu.com//40.jpg)
 
-![img](/pictures/39.jpg)
+![HEU_2021春季](https://picgo.mckinleylu.com//41.jpg)
 
-![img](/pictures/38.jpg)
+![孔子像](https://picgo.mckinleylu.com//31.jpg)
 
-![img](/pictures/37.jpg)
+![博物馆旁的小恐龙](https://picgo.mckinleylu.com//34.jpg)
 
-![img](/pictures/36.jpg)
+![冬天的清晨](https://picgo.mckinleylu.com//9.jpg)
 
-![img](/pictures/35.jpg)
+![阴天黄昏](https://picgo.mckinleylu.com//8.jpg)
 
-![img](/pictures/34.jpg)
+![阴天黄昏]](https://picgo.mckinleylu.com//7.jpg)
 
-![img](/pictures/33.jpg)
+![河地大旁的大桥](https://picgo.mckinleylu.com//6.jpg)
 
-![img](/pictures/32.jpg)
+![南群楼计算机实验室二楼大白](https://picgo.mckinleylu.com//5.jpg)
 
-![img](/pictures/31.jpg)
+![河地大落叶](https://picgo.mckinleylu.com//18.jpg)
 
-![img](/pictures/30.jpg)
+![河地大落叶](https://picgo.mckinleylu.com//17.jpg)
 
-![img](/pictures/29.jpg)
+![河地大落叶-教三](https://picgo.mckinleylu.com//16.jpg)
 
-![img](/pictures/28.jpg)
+![河地大落叶学五](https://picgo.mckinleylu.com//15.jpg)
 
-![img](/pictures/27.jpg)
+![图书馆外的恐龙](https://picgo.mckinleylu.com//14.jpg)
 
-![img](/pictures/26.jpg)
+![博物馆旁恐龙](https://picgo.mckinleylu.com//13.jpg)
 
-![img](/pictures/25.jpg)
+![小径](https://picgo.mckinleylu.com//12.jpg)
 
-![img](/pictures/24.jpg)
+![河地大操场](https://picgo.mckinleylu.com//11.jpg)
 
-![img](/pictures/23.jpg)
+![河地大主楼](https://picgo.mckinleylu.com//10.jpg)
 
-![img](/pictures/22.jpg)
-
-![img](/pictures/21.jpg)
-
-![img](/pictures/19.jpg)
-
-![img](/pictures/18.jpg)
-
-![img](/pictures/17.jpg)
-
-![img](/pictures/16.jpg)
-
-![img](/pictures/15.jpg)
-
-![img](/pictures/14.jpg)
-
-![img](/pictures/13.jpg)
-
-![img](/pictures/12.jpg)
-
-![img](/pictures/11.jpg)
-
-![img](/pictures/10.jpg)
-
-![img](/pictures/9.jpg)
-
-![img](/pictures/8.jpg)
-
-![img](/pictures/7.jpg)
-
-![img](/pictures/6.jpg)
+![熟睡的大白](https://picgo.mckinleylu.com//1.jpg)
