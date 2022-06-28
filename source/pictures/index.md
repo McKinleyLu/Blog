@@ -6,19 +6,19 @@ date: 2021-8-10 16:13:29
 
 ### **河地大风景**
 
-![HEU](https://picgo.mckinleylu.com//40.jpg)
+![HGU](https://picgo.mckinleylu.com//40.jpg)
 
-![HEU_2021春季](https://picgo.mckinleylu.com//41.jpg)
+![HGU_2021春季](https://picgo.mckinleylu.com//41.jpg)
 
 ![孔子像](https://picgo.mckinleylu.com//31.jpg)
 
 ![博物馆旁的小恐龙](https://picgo.mckinleylu.com//34.jpg)
 
-![冬天的清晨](https://picgo.mckinleylu.com//9.jpg)
+![冬天晚十点](https://picgo.mckinleylu.com//9.jpg)
 
 ![阴天黄昏](https://picgo.mckinleylu.com//8.jpg)
 
-![阴天黄昏]](https://picgo.mckinleylu.com//7.jpg)
+![阴天黄昏](https://picgo.mckinleylu.com//7.jpg)
 
 ![河地大旁的大桥](https://picgo.mckinleylu.com//6.jpg)
 
