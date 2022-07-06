@@ -129,3 +129,9 @@ $$
 4. 节点 f 是 tail-to-tail 类型节点，且 f∈C ，根据 **(a)**，所以 f 节点阻塞了该路径。
 
 5. 所以 a 和 b 在 f 下是条件独立的。
+
+总结一下，对于head-to-head，我们有a与b独立，对于tail-to-tail，我们有given c，a与b条件独立，对于head-to-tail，我们有given c，a与b条件独立。换一个直观的例子：
+
+![6](https://picgo.mckinleylu.com//images/6.jpg)
+
+我们可以看到，因为c这个“搅屎棍”的存在，我们很可能在数据误以为a与b有因果关系，实际上他们只是有相关性，也可以说c d-separate/blocked a and b。但是对于a与b的关系，**NONE of them are causality。**而我们要做的就是找到这些关系，才能判断出真正的因果。我们定义一下，head-to-head叫做v-structure或者collider，tail-to-tail叫做confounder或者fork，head-to-tail叫做chain。以便于理解后面以及其他paper。
