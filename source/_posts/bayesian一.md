@@ -135,3 +135,20 @@ $$
 ![6](https://picgo.mckinleylu.com//images/6.jpg)
 
 我们可以看到，因为c这个“搅屎棍”的存在，我们很可能在数据误以为a与b有因果关系，实际上他们只是有相关性，也可以说c d-separate/blocked a and b。但是对于a与b的关系，**NONE of them are causality。**而我们要做的就是找到这些关系，才能判断出真正的因果。我们定义一下，head-to-head叫做v-structure或者collider，tail-to-tail叫做confounder或者fork，head-to-tail叫做chain。以便于理解后面以及其他paper。
+
+#### 马尔可夫毯（Markov Blanket）
+
+定义:在随机变量的全集U中,对于给定的变量$X \in U$和变量集MB $\subset$ U（X  $\notin$ MB),若有
+$$
+X \perp \!\!\! \perp\{U - MB - {X}\} | MB
+$$
+则称能满足上述条件的最小变量集MB为X的马尔可夫毯。
+
+通俗的讲是如下情况：
+
+![1](https://picgo.mckinleylu.com//images/1.png)
+
+即在给定集合MB时，变量X与{U-MB-{X}}独立。
+
+贝叶斯网络是马尔可夫链的推广，马尔可夫链限定了结构只能是一条链，而贝叶斯网络则不再限定结构是一个链，但二者都遵守马尔可夫假设，即一个结点只依赖于它的上一个节点（一阶马尔可夫假设）。
+
