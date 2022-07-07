@@ -1,6 +1,5 @@
 ---
 title: 贝叶斯基础(一)
-date: 2022-07-06 15:30:02
 toc: true
 author: 瑾年
 mathjax: true
@@ -9,6 +8,8 @@ tags:
 categories:
   - dke
   - 贝叶斯
+abbrlink: 64002
+date: 2022-07-06 15:30:02
 ---
 
 ### 贝叶斯网定义
