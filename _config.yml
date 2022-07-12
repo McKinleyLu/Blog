@@ -95,18 +95,22 @@ permalink_pinyin:
   separator: '-' # default: '-'
   
 
-highlight:
-  enable: false # 关闭原有的高亮代码
-  
-prism_plugin:
-  mode: 'preprocess'    # realtime/preprocess
-  theme: 'my'
-  line_number: false    # default false
-  custom_css:
-  
 # hexo-admin authentification
 admin:
   username: mckinleylu
   password_hash: $2a$10$ZOGpSfowfe4j3cNkBhTLYOuickGOB28ubNwCAO9KUnFIglQnJ6vFa
   secret: hdkasjiasjjsk
   deployCommand: './admin_script.sh'
+  
+highlight:
+  enable: false
+  line_number: true
+  auto_detect: false
+  tab_replace: ''
+  wrap: true
+  hljs: false
+prismjs:
+  enable: true
+  preprocess: true
+  line_number: true
+  tab_replace: ''
