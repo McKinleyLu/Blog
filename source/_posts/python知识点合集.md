@@ -1,13 +1,14 @@
 ---
 title: python知识点合集
-date: 2022-07-12 09:06:54
 author: 瑾年
 mathjax: true
 categories:
-  -  dke
-  -  python
+  - dke
+  - python
 tags:
-  -  dke
+  - dke
+abbrlink: 27616
+date: 2022-07-12 09:06:54
 ---
 ### python系统学习
 #### 基础数据结构
@@ -298,3 +299,6 @@ f2(1,2,d=99,city="Beijing")
 >>> a = 1 b = 2 c = 0 d = 99 kw = {'city': 'Beijing'}
 ```
 
+#### 高级特性
+
+##### 切片
