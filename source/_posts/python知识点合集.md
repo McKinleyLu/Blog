@@ -1,5 +1,5 @@
----
 title: python知识点合集
+<<<<<<< HEAD
 author: 瑾年
 mathjax: true
 categories:
@@ -10,6 +10,18 @@ tags:
 abbrlink: 27616
 date: 2022-07-12 09:06:54
 ---
+=======
+abbrlink: 27616
+tags:
+  - python
+categories:
+  - dke
+  - python
+author: 瑾年
+date: 2022-07-12 09:06:00
+---
+
+>>>>>>> e5c1e0e53338b6c8d919eeee7833bf84e14a74f9
 ### python系统学习
 #### 基础数据结构
 
