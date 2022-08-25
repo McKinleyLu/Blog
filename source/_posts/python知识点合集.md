@@ -1,5 +1,6 @@
 title: python知识点合集
 <<<<<<< HEAD
+<<<<<<< HEAD
 author: 瑾年
 mathjax: true
 categories:
@@ -22,6 +23,18 @@ date: 2022-07-12 09:06:00
 ---
 
 >>>>>>> e5c1e0e53338b6c8d919eeee7833bf84e14a74f9
+=======
+abbrlink: 27616
+tags:
+  - python
+categories:
+  - dke
+  - python
+author: 瑾年
+date: 2022-07-12 09:06:00
+---
+
+>>>>>>> cda2f4c3a3f5fc438d40eae82ca15dc62558449b
 =======
 abbrlink: 27616
 tags:
@@ -327,6 +340,7 @@ f2(1,2,d=99,city="Beijing")
 
 ##### 切片
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 切片比索引取值更加方便
 
@@ -465,5 +479,7 @@ step 1
 step 1
 ```
 
+=======
+>>>>>>> cda2f4c3a3f5fc438d40eae82ca15dc62558449b
 =======
 >>>>>>> cda2f4c3a3f5fc438d40eae82ca15dc62558449b
