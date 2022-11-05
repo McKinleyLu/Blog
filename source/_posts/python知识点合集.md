@@ -1,6 +1,7 @@
 title: python知识点合集
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 author: 瑾年
 mathjax: true
 categories:
@@ -47,6 +48,18 @@ date: 2022-07-12 09:06:00
 ---
 
 >>>>>>> cda2f4c3a3f5fc438d40eae82ca15dc62558449b
+=======
+abbrlink: 27616
+tags:
+  - python
+categories:
+  - dke
+  - python
+author: 瑾年
+date: 2022-07-12 09:06:00
+---
+
+>>>>>>> f0932680e6c46a5a85c06195d13fca9ae84cc6da
 ### python系统学习
 #### 基础数据结构
 
@@ -341,6 +354,7 @@ f2(1,2,d=99,city="Beijing")
 ##### 切片
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 切片比索引取值更加方便
 
@@ -483,3 +497,5 @@ step 1
 >>>>>>> cda2f4c3a3f5fc438d40eae82ca15dc62558449b
 =======
 >>>>>>> cda2f4c3a3f5fc438d40eae82ca15dc62558449b
+=======
+>>>>>>> f0932680e6c46a5a85c06195d13fca9ae84cc6da
