@@ -2,10 +2,9 @@
 title: spfa求最短路
 categories:
   - 基础算法
-  - week3
 tags:
   - 最短路
-  - c++
+  - week3
 abbrlink: 55024
 date: 2022-03-11 17:09:39
 ---

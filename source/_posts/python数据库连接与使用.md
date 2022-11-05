@@ -1,9 +1,7 @@
 ---
 title: python数据库连接与使用
 categories:
-  - 数据库学习
-  - 关系数据库
-  - python连接数据库
+  - 计算机语言笔记
 tags:
   - 数据库基础
   - python

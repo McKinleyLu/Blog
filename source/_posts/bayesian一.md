@@ -4,10 +4,9 @@ toc: true
 author: 瑾年
 mathjax: true
 tags:
-  - dke
-categories:
-  - dke
   - 贝叶斯
+categories:
+  - 贝叶斯学习笔记
 abbrlink: 64002
 date: 2022-07-06 15:30:02
 ---

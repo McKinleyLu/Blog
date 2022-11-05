@@ -3,8 +3,7 @@ title: Go语言学习(一)
 author: 瑾年
 mathjax: true
 categories:
-  - 2022WinterPlan
-  - Go语言学习
+  - - 计算机语言笔记
 tags:
   - Go
 abbrlink: 50477

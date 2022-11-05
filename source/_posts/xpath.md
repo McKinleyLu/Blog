@@ -3,10 +3,9 @@ title: xpath
 toc: true
 cover: /img/2.jpg
 categories:
-  - 爬虫
-  - xpath
+  - 计算机基础技术
 tags:
-  - python
+  - 爬虫
 abbrlink: 64205
 date: 2021-09-25 13:24:41
 ---

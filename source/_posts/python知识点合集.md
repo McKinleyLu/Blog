@@ -1,65 +1,16 @@
-title: python知识点合集
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+---
+title: python系统学习
+toc: true
 author: 瑾年
 mathjax: true
-categories:
-  - dke
-  - python
-tags:
-  - dke
-abbrlink: 27616
-date: 2022-07-12 09:06:54
----
-=======
-abbrlink: 27616
 tags:
   - python
 categories:
-  - dke
-  - python
-author: 瑾年
-date: 2022-07-12 09:06:00
+  - 计算机语言笔记
+abbrlink: 64002
+date: 2022-07-06 15:30:02
 ---
 
->>>>>>> e5c1e0e53338b6c8d919eeee7833bf84e14a74f9
-=======
-abbrlink: 27616
-tags:
-  - python
-categories:
-  - dke
-  - python
-author: 瑾年
-date: 2022-07-12 09:06:00
----
-
->>>>>>> cda2f4c3a3f5fc438d40eae82ca15dc62558449b
-=======
-abbrlink: 27616
-tags:
-  - python
-categories:
-  - dke
-  - python
-author: 瑾年
-date: 2022-07-12 09:06:00
----
-
->>>>>>> cda2f4c3a3f5fc438d40eae82ca15dc62558449b
-=======
-abbrlink: 27616
-tags:
-  - python
-categories:
-  - dke
-  - python
-author: 瑾年
-date: 2022-07-12 09:06:00
----
-
->>>>>>> f0932680e6c46a5a85c06195d13fca9ae84cc6da
 ### python系统学习
 #### 基础数据结构
 

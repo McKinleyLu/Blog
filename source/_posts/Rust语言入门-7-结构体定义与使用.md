@@ -3,8 +3,7 @@ title: Rust语言入门-7-结构体定义与使用
 toc: true
 cover: /img/9.jpg
 categories:
-  - 编程语言
-  - Rust
+  - 计算机语言笔记
 tags:
   - Rust
 abbrlink: 761

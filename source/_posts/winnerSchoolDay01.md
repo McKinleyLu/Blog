@@ -1,13 +1,11 @@
+---
 title: winnerSchoolDay01
 top: true
 password: 0c2baa6084e92bab3a2aa81c8791b37730b9bc4e1f6c13730ba44c5850d7cfd4
 categories:
-  - 2022WinterPlan
-  - dke
-  - dke2022寒假培训
+  - 计算机基础知识
 tags:
-  - winnerSchool
-  - day01
+  - dke2022寒假培训
 abbrlink: 49604
 date: 2022-01-12 21:01:00
 ---

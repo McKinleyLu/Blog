@@ -3,10 +3,9 @@ title: C++ STL
 toc: true
 cover: /img/1.jpg
 categories:
-  - 编程语言
-  - STL
+  - 计算机语言笔记
 tags:
-  - C++
+  - STL
 abbrlink: 15764
 date: 2021-07-17 07:12:49
 ---

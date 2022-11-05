@@ -3,8 +3,7 @@ title: C++第二周
 toc: true
 cover: /img/1.jpg
 categories:
-  - 编程语言
-  - C++
+  - 计算机语言笔记
 tags:
   - C++
 abbrlink: 62955

@@ -3,8 +3,7 @@ title: Rust语言入门-1-Rust与Cargo安装和使用
 toc: true
 cover: /img/9.jpg
 categories:
-  - 编程语言
-  - Rust
+  - 计算机语言笔记
 tags:
   - Rust
 abbrlink: 24264

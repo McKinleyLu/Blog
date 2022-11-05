@@ -3,8 +3,7 @@ title: python数据分析与展示(一)
 toc: true
 cover: /img/9.jpg
 categories:
-  - 数据分析与展示
-  - python
+  - 计算机语言笔记
 tags:
   - python
 abbrlink: 15293

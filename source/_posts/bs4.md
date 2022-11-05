@@ -3,10 +3,10 @@ title: bs4
 toc: true
 cover: /img/1.jpg
 categories:
+  - 计算机基础技术
+tags:
   - 爬虫
   - bs4
-tags:
-  - python
 abbrlink: 14725
 date: 2021-09-24 22:59:29
 ---

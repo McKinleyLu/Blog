@@ -3,8 +3,7 @@ title: python基础语法一
 toc: true
 cover: /img/9.jpg
 categories:
-  - 编程语言
-  - python语法
+  - 计算机语言笔记
 tags:
   - python
 abbrlink: 3989
