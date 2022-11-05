@@ -3,8 +3,7 @@ title: Python基础语法二
 toc: true
 cover: /img/1.jpg
 categories:
-  - 编程语言
-  - python语法
+  - 计算机语言笔记
 tags:
   - python
 abbrlink: 2227

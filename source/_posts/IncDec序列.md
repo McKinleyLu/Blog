@@ -3,12 +3,9 @@ title: IncDec序列
 toc: true
 cover: /img/7.jpg
 categories:
-  - 算法
   - 算法进阶指南
 tags:
   - 差分
-  - C++
-  - 算法-中等级
 abbrlink: 2657
 date: 2021-10-10 17:08:05
 ---

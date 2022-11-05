@@ -1,3 +1,16 @@
+<<<<<<< HEAD
+---
+title: python系统学习
+toc: true
+author: 瑾年
+mathjax: true
+tags:
+  - python
+categories:
+  - 计算机语言笔记
+abbrlink: 64002
+date: 2022-07-06 15:30:02
+=======
 title: python知识点合集
 abbrlink: 27616
 tags:
@@ -7,6 +20,7 @@ categories:
   - python
 author: 瑾年
 date: 2022-07-12 09:06:00
+>>>>>>> f0932680e6c46a5a85c06195d13fca9ae84cc6da
 ---
 
 ### python系统学习
@@ -301,3 +315,153 @@ f2(1,2,d=99,city="Beijing")
 #### 高级特性
 
 ##### 切片
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+切片比索引取值更加方便
+
+```python
+l =[1,5,6,9,10]
+print(l[0:3])
+>>> [1,5,6]
+
+#[a:b:c] 在(a,b)区间上以步调c提取元素
+print('ABCDEFG'[::2])
+>>> ACEG
+
+# Python strip() 方法用于移除字符串头尾指定的字符（默认为空格或换行符）或字符序列
+str = "watermelon"
+print(str.strip('w'))
+>>> atermelon
+```
+
+##### 迭代
+
+利用items()输出全部信息
+
+```python
+dicts = {'d':1,'c':3,'s':4,'r':7}
+for key,value in dicts.items():
+    print(key,value)
+>>>
+d 1
+c 3
+s 4
+r 7
+```
+
+同时迭代索引和元素本身
+
+```python
+for i,value in enumerate(['A','B','C']):
+    print(i,value)
+>>> 
+0 A
+1 B
+2 C
+```
+
+##### 列表生成式
+
+单循环列表生成式
+
+```python
+# 列表生成式
+print([x*x for x in range(1,10)])
+
+>>>[1, 4, 9, 16, 25, 36, 49, 64, 81]
+```
+
+双重循环列表生成式
+
+```python
+print([m + n for m in 'ABC' for n in 'abc'])
+
+>>>['Aa', 'Ab', 'Ac', 'Ba', 'Bb', 'Bc', 'Ca', 'Cb', 'Cc']
+```
+
+> 注意,列表生成式,for前面的if...else是表达式,for后面是if的过滤条件,不能带else.
+
+```python
+print([i if i % 3 == 0 else  -i for i in range(10) if i % 2 == 0])
+
+>>> [0, -2, -4, 6, -8]
+```
+
+##### 生成器
+
+一边循环一边计算，不需要过大的空间
+
+第一种方法很简单，只要把一个列表生成式的`[]`改成`()`，就创建了一个generator:
+
+```python
+g =  (x*x for x in range(10))
+# 一次性打印所有元素
+for i in g :
+    print(i)
+    
+>>>
+0
+1
+4
+9
+16
+25
+36
+49
+64
+81
+
+# 使用next()方法单个打印
+next(g)
+>>> 0
+next(g)
+>>>1
+next(g)
+>>>4
+...
+```
+
+第二种定义方法:如果一个函数定义中包含`yield`关键字，那么这个函数就不再是一个普通函数，而是一个generator函数.
+
+```python
+def odd():
+    print('step 1')
+    yield 1
+    print('step 2')
+    yield(3)
+    print('step 3')
+    yield(5)
+    
+o = odd()
+next(o)
+next(o)
+
+>>>
+step1
+step2
+```
+
+> 调用generator函数会创建一个generator对象，多次调用generator函数会创建多个相互独立的generator.
+
+```python
+next(odd())
+next(odd())
+next(odd())
+
+>>> 
+step 1
+step 1
+step 1
+```
+
+=======
+>>>>>>> cda2f4c3a3f5fc438d40eae82ca15dc62558449b
+=======
+>>>>>>> cda2f4c3a3f5fc438d40eae82ca15dc62558449b
+=======
+>>>>>>> f0932680e6c46a5a85c06195d13fca9ae84cc6da
+=======
+>>>>>>> f0932680e6c46a5a85c06195d13fca9ae84cc6da

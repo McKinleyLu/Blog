@@ -2,10 +2,9 @@
 title: spfa判断负环
 categories:
   - 基础算法
-  - week3
 tags:
   - 最短路
-  - c++
+  - week3
 abbrlink: 21681
 date: 2022-03-11 17:09:55
 ---

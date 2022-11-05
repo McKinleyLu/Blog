@@ -1,11 +1,12 @@
+---
 title: 研究方向之图嵌入部分
 top: true
 author: 瑾年
 password: 038468518ad8122e13112743f890c7ba96ac5665b71de548eceb23e9ef237805
 tags:
-  - ANNS
+  - 图嵌入
 categories:
-  - dke
+  - 计算机进阶知识
 abbrlink: 31451
 date: 2022-06-13 20:58:00
 ---
@@ -33,7 +34,7 @@ X ≈ WH（W为权矩阵   H为特征矩阵）
   * 将数据包装成C语言可以使用的形式
 2. struct.unpack(fmt,string)
   * 返回一个由解包数据(string)得到的一个元组(tuple), 即使仅有一个数据也会被解包成元组
-  
+
 #### 图索引读数据代码参考
 1. 读代码(ssg)   
    数据集格式    
@@ -46,7 +47,7 @@ X ≈ WH（W为权矩阵   H为特征矩阵）
     ```java
     #include <iostream>
     #include <fstream>
-
+   
     void load_data(char* filename, float*& data, unsigned& num, unsigned&   dim) { 
       std::ifstream in(filename, std::ios::binary);	//以二进制的方式打开文件
       if (!in.is_open()) {
@@ -59,7 +60,7 @@ X ≈ WH（W为权矩阵   H为特征矩阵）
     size_t fsize = (size_t)ss;
     num = (unsigned)(fsize / (dim + 1) / 4);	//数据的个数
     data = new float[(size_t)num * (size_t)dim];
-
+   
     in.seekg(0, std::ios::beg);	//光标定位到起始处
     for (size_t i = 0; i < num; i++) {
       in.seekg(4, std::ios::cur);	//光标向右移动4个字节
@@ -79,8 +80,8 @@ X ≈ WH（W为权矩阵   H为特征矩阵）
       }
     }
     in.close();
-  }
-
+    }
+   
     int main(int argc, char** argv) {
           float* data_load = NULL;
           unsigned points_num, dim;
@@ -89,7 +90,7 @@ X ≈ WH（W为权矩阵   H为特征矩阵）
       return 0;
     }
     ```
-    
+   
 #### 图嵌入代码分析
 1. 对原始数据进行初步处理
     * 对原始数据进行处理，返回如下信息  
@@ -143,7 +144,7 @@ X ≈ WH（W为权矩阵   H为特征矩阵）
               nodeIndex[node]=index
               index+=1
       return nodeIndex,indexNode
-    ```
+     ```
 2. 得到有效图信息
      —— 获取每一个节点边数以及其出入度之和的数组  
      datas数组:  每一个元素为一个turple(id1,id2)  
@@ -174,7 +175,7 @@ X ≈ WH（W为权矩阵   H为特征矩阵）
                           nodeDegree[int(elements[1])] += 1
           return data, nodeDegree
       ```
-        
+     
 3. Eembedding函数  
 
   ```python

@@ -1,6 +1,7 @@
+---
 title: python数据分析
 categories:
-  - dke
+  - 计算机语言笔记
 tags:
   - numpy
 abbrlink: 64269

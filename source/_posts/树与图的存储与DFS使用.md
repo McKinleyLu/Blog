@@ -2,10 +2,9 @@
 title: 树与图的存储与DFS使用
 categories:
   - 基础算法
-  - week3
 tags:
   - DFS
-  - c++
+  - week3
 abbrlink: 28912
 date: 2021-11-20 15:49:44
 ---

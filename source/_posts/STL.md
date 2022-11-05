@@ -2,11 +2,8 @@
 title: STL
 categories:
   - 基础算法
-  - 竞赛
-  - 竞赛模板
 tags:
   - STL
-  - c++
 abbrlink: 9423
 date: 2021-10-25 16:26:10
 ---

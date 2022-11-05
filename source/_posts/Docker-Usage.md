@@ -1,7 +1,7 @@
 ---
 title: Docker Usage
 categories:
-  - dke
+  - 计算机基础技术
 tags:
   - docker
 abbrlink: 23336

@@ -3,8 +3,7 @@ title: Rust语言入门-9-枚举初步
 toc: true
 cover: /img/9.jpg
 categories:
-  - 编程语言
-  - Rust
+  - 计算机语言笔记
 tags:
   - Rust
 abbrlink: 24165

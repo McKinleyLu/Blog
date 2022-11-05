@@ -1,8 +1,7 @@
 ---
 title: Django学习(二)
 categories:
-  - 2022WinterPlan
-  - Django
+  - 计算机WEB应用
 tags:
   - Django
 abbrlink: 25314

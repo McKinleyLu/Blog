@@ -2,10 +2,8 @@
 title: 递归实现排列类型枚举II
 categories:
   - 基础算法
-  - week3
 tags:
   - DFS
-  - c++
 abbrlink: 28289
 date: 2022-03-11 16:59:58
 ---

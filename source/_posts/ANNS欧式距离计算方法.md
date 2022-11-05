@@ -1,3 +1,4 @@
+---
 title: ANNS欧式距离计算方法
 author: 瑾年
 top: true
@@ -5,7 +6,8 @@ password: 038468518ad8122e13112743f890c7ba96ac5665b71de548eceb23e9ef237805
 tags:
   - ANNS
 categories:
-  - dke
+  - 计算机进阶知识
+  - ANNS
 abbrlink: 28594
 date: 2022-06-14 20:27:00
 ---

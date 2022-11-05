@@ -1,12 +1,12 @@
+---
 title: Pandas自动化处理Excel文件
 author: 瑾年
 abbrlink: 33283
 tags:
-  - Pandas
-categories:
-  - dke
-  - Pandas
+  - Pandas应用
   - Excel
+categories:
+  - 计算机语言笔记
 date: 2022-06-16 22:00:00
 ---
 ### Excel文件读取
@@ -103,4 +103,4 @@ people.to_excel("excels_no_head_output4.xlsx")
     books = pd.read_excel("week2.1.xlsx",skiprows=3,usecols='C:F',dtype={'ID':str,'InStore':str})
     bookss =  pd.read_excel("week2.1.xlsx",skiprows=3,usecols='C:F',dtype={'ID':str,'InStore':str})
     print(books)
- ```
+  ```

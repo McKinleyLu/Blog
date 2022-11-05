@@ -1,9 +1,10 @@
+---
 title: git操作手册
 author: 瑾年
 tags:
   - git
 categories:
-  - dke
+  - 计算机基础技术
 abbrlink: 47854
 date: 2022-06-12 19:28:00
 ---
@@ -21,10 +22,10 @@ ssh-keygen -t rsa -C “your_email.com”
 3. 连接云服务器
    * 将本地的id_rsa.pub传入/root/.ssh文件夹中
    * 使用cat id_rsa.pub >> ~/.ssh/authorized_keys
-通过此三步，实现ssh免密进行仓库维护
+   通过此三步，实现ssh免密进行仓库维护
 4. 问题处理
    * 本地上传代码到远程仓库,发现显示仓库不存在or远程仓库无法连接，则将本地./ssh中的known_hosts以及known_hosts_old文件删除即可
-  
+
 #### git本地分支创建与远程关联
 1. 查看分支
 ```shell
@@ -77,7 +78,7 @@ git checkout [branch name]
    git merge newBranch
    # 提交commit到远程（newBranch分支有多少个commit就会生成几个）
    git push
-    ```
+   ```
 
 2. 远程分支合并
 
@@ -102,7 +103,7 @@ git checkout [branch name]
     ![picture](/img/git1.JPG)
   * 修改报错文件
     ![picture](/img/git2.JPG)
-告诉git冲突已经解决
+    告诉git冲突已经解决
 ```shell
 git add -A
 ```

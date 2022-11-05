@@ -3,10 +3,9 @@ title: Trie树
 date: 2021-10-21 22:45:59
 categories:
   - 基础算法
-  - week2
 tags:
   - trie树
-  - c++
+  - week2
 abbrlink: 3592
 ---
 
