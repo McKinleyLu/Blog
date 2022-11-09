@@ -4,12 +4,12 @@ menu:
   主页:
     url: /
     icon: fas fa-home
-  标签:
-    url: /tags
-    icon: fas fa-tags
   分类:
     url: /categories
     icon: fas fa-bookmark
+  标签:
+    url: /tags
+    icon: fas fa-tags
   归档:
     url: /archives
     icon: fas fa-archive
