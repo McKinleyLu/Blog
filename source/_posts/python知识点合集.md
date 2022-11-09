@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 title: python系统学习
 toc: true
@@ -10,17 +9,6 @@ categories:
   - 计算机语言笔记
 abbrlink: 64002
 date: 2022-07-06 15:30:02
-=======
-title: python知识点合集
-abbrlink: 27616
-tags:
-  - python
-categories:
-  - dke
-  - python
-author: 瑾年
-date: 2022-07-12 09:06:00
->>>>>>> f0932680e6c46a5a85c06195d13fca9ae84cc6da
 ---
 
 ### python系统学习
