@@ -10,6 +10,7 @@ categories:
   - 计算机语言笔记
 abbrlink: 64002
 date: 2022-07-06 15:30:02
+<<<<<<< HEAD
 =======
 title: python知识点合集
 abbrlink: 27616
@@ -21,6 +22,8 @@ categories:
 author: 瑾年
 date: 2022-07-12 09:06:00
 >>>>>>> f0932680e6c46a5a85c06195d13fca9ae84cc6da
+=======
+>>>>>>> 725fcb7a857252b3986fe8e21eadbeb0e3e3ddc6
 ---
 
 ### python系统学习
@@ -319,7 +322,10 @@ f2(1,2,d=99,city="Beijing")
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> 725fcb7a857252b3986fe8e21eadbeb0e3e3ddc6
 切片比索引取值更加方便
 
 ```python
@@ -456,6 +462,7 @@ step 1
 step 1
 step 1
 ```
+<<<<<<< HEAD
 
 =======
 >>>>>>> cda2f4c3a3f5fc438d40eae82ca15dc62558449b
@@ -465,3 +472,5 @@ step 1
 >>>>>>> f0932680e6c46a5a85c06195d13fca9ae84cc6da
 =======
 >>>>>>> f0932680e6c46a5a85c06195d13fca9ae84cc6da
+=======
+>>>>>>> 725fcb7a857252b3986fe8e21eadbeb0e3e3ddc6
